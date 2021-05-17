@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.howyi.intellij-chicken-theme</id>
   <name>Chicken Theme</name>
-  <version>1.0.2</version>
+  <version>1.0.4</version>
   <vendor email="howyi.lq@gmail.com" url="https://github.com/howyi">howyi</vendor>
 
   <description><![CDATA[
@@ -26,7 +26,7 @@
   ]]></change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
        on how to target different products -->
